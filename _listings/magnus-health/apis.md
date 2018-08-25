@@ -1,0 +1,44 @@
+---
+name: Magnus Health
+x-slug: magnus-health
+description: Magnus Health is an online software solution for collecting, managing,
+  and securely storing student health information for K-12 schools and colleges.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1894-magnus-health.jpg
+x-kinRank: "8"
+x-alexaRank: "929062"
+tags: API Provider
+created: "2018-08-25"
+modified: "2018-08-25"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-provider/master/_listings/magnus-health/apis.md
+specificationVersion: "0.14"
+apis:
+- name: Magnus Health
+  x-api-slug: magnus-health
+  description: Magnus Health is an online software solution for collecting, managing,
+    and securely storing student health information for K-12 schools and colleges.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1894-magnus-health.jpg
+  humanURL: http://magnushealth.com
+  baseURL: https:///
+  tags: API Provider
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-provider/master/_listings/magnus-health/openapi.md
+x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/magnus-health-portal
+- type: x-developer
+  url: http://magnushealth.com/api/
+- type: x-email
+  url: helpdesk@magnushealth.com
+- type: x-email
+  url: service@magnushealth.com
+- type: x-twitter
+  url: https://twitter.com/magnushealth
+- type: x-website
+  url: http://magnushealth.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---
